@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.history/
+*.swp
+*.swo
+*.swn
+.DS_Store
+.vscode/
